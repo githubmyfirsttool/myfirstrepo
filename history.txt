@@ -1,0 +1,17 @@
+    1  mkdir
+    2  mkdir xyz
+    3  mkdir san
+    4  cd san
+    5  explorer .
+    6  git -v
+    7  cd ..
+    8  pwd
+    9  history
+   10  ipconfig
+   11  ls
+   12  mkdir folder1 folder2 folder3
+   13  explorer .
+   14  ls -l
+   15  touch sample1.txt sample1.docx sample1.ppt
+   16  touch sample.html
+   17  history > history.txt
